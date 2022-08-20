@@ -1,0 +1,16 @@
+.ListContainer {
+    width: 25rem;
+}
+
+ul {
+    padding-top: 0;
+    padding-bottom: 0;
+}
+li {
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+h3 {
+    margin: 0;
+}

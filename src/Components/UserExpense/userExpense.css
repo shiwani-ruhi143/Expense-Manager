@@ -1,0 +1,20 @@
+.income {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.expense {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.expenseContainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: aliceblue;
+    height: 53px;
+    border-radius: 100px;
+    width: 40rem;
+}

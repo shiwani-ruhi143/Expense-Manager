@@ -1,0 +1,13 @@
+.AddExpenseContainer {
+  height: 21.5rem;
+  width: 33rem;
+  padding: 1rem;
+  margin: 1rem;
+}
+
+.FormContainer {
+  margin: 10px 0 10px 0;
+}
+.FormInput {
+  margin: 5px 0 5px 0 !important;
+}
